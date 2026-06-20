@@ -168,7 +168,7 @@ function playTickSound() {
 }
 
 // Target date for the launch: June 19, 2026 at 5:30 PM
-const targetDate = new Date("June 20, 2026 13:45:00").getTime();
+const targetDate = new Date("June 21, 2026 18:00:00").getTime();
 let isCountdownVisible = false;
 
 function updateCountdown() {
